@@ -21,7 +21,7 @@
       "value": ""
     },
     "BOT_WEBHOOK": {
-      "description": "Webhook URL (اسم التطبيق الي خليته اول شي)",
+      "description": "Webhook URL (لتلعب بي ابد)",
       "value": "https://YOURAPPNAME.herokuapp.com"
     },
     "BOT_SECRET": {
