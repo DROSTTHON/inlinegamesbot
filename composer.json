@@ -1,7 +1,7 @@
 {
-  "name": "jacklul/inlinegamesbot",
+  "name": "العاب سورس جبيثون",
   "type": "project",
-  "description": "A Telegram bot providing games that can be played in any chat.",
+  "description": "يمكنك لعب اي لعبه علئ التلجرام",
   "license": "AGPL-3.0",
   "keywords": [
     "telegram",
@@ -10,9 +10,9 @@
   ],
   "authors": [
     {
-      "name": "Jack'lul",
-      "email": "jacklulcat@gmail.com",
-      "homepage": "https://jacklul.github.io",
+      "name": "لعب جيبثون",
+      "email": "almul8ab28@gmail.com",
+      "homepage": "https://github.com/DROSTTHON/inlinegamesbot.io",
       "role": "Developer"
     }
   ],
