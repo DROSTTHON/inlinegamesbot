@@ -1,6 +1,6 @@
 <?php
 /**
- * Inline Games - Telegram Bot (@inlinegamesbot)
+ * Inline Games - Telegram Bot (@JEBTHON)
  *
  * (c) 2016-2021 Jack'lul <jacklulcat@gmail.com>
  *
